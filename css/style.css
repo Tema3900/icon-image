@@ -1,0 +1,108 @@
+.container {
+    display: block;
+    width: 1280px;
+    height: 1098px;
+    margin: 0 auto;
+
+
+
+}
+.ramka {
+    width: 100%;
+    height: 100%;
+    background: url("../img/ramka21.png");
+
+    position: relative;
+
+}
+.fa {
+    position: absolute;
+
+}
+.fa-smile-o {
+
+
+    top: 333px;
+    right: 683px;
+    font-size: 150px;
+}
+.fa-hand-paper-o {
+
+    font-size: 90px;
+    transform: rotate(90deg);
+    top: 494px;
+    right: 536px;
+
+}
+.fa-hand-o-down {
+
+    font-size: 90px;
+    top: 494px;
+    left: 327px;
+    transform: rotate(90deg);
+}
+.fa-graduation-cap {
+
+    font-size: 100px;
+    top: 250px;
+    right: 685px;
+
+}
+.fa-square-o {
+    font-size: 220px;
+    top: 480px;
+    right: 659px;
+
+
+}
+.fa-sun-o {
+    font-size: 150px;
+    top: 222px;
+    right: 303px;
+    color: yellow;
+
+}
+.fa-briefcase {
+    font-size: 200px;
+    bottom: 226px;
+    right: 300px;
+}
+.fa-paragraph {
+
+
+}
+.ramka span:nth-child(1) {
+    font-size: 150px;
+    bottom: 277px;
+    left: 537px;
+    transform: rotate(180deg);
+}
+.ramka span:nth-child(2) {
+    font-size: 150px;
+    bottom: 277px;
+    left: 420px;
+    transform: scale(1, -1);
+
+
+}
+.fa-comment-o {
+    font-size: 136px;
+    top: 220px;
+    right: 522px;
+}
+.fa-car {
+    font-size: 30px;
+    top: 261px;
+    right: 597px;
+
+}
+.fa-usd {
+    font-size: 30px;
+    top: 261px;
+    right: 566px;
+}
+.fa-plane {
+    font-size: 30px;
+    top: 293px;
+    right: 579px;
+}
